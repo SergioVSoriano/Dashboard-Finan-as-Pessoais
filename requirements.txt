@@ -1,0 +1,5 @@
+streamlit==1.44.1
+pandas==2.2.0
+plotly==6.0.1
+ofxparse==0.21
+matplotlib==3.8.3
